@@ -3,7 +3,6 @@ import json
 from dotenv import load_dotenv
 from openai import OpenAI
 
-# 1. Carrega as variáveis de ambiente do arquivo .env
 load_dotenv()
 
 api_key = os.getenv("OPENAI_API_KEY")
@@ -17,7 +16,6 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
-# Garante que a pasta de saída exista
 os.makedirs("output", exist_ok=True)
 
 
