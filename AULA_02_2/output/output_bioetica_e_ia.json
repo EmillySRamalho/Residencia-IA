@@ -1,0 +1,26 @@
+{
+    "titulo": "Entre o algoritmo e o Juramento de Hipócrates: bioética na era da inteligência artificial",
+    "autores": [
+        "Juracy Barbosa dos Santos",
+        "Guilhermina Rego",
+        "Rui Nunes"
+    ],
+    "ano": 2026,
+    "metodos": [
+        "Pesquisa qualitativa",
+        "Estudo exploratório",
+        "Revisão bibliográfica narrativa",
+        "Busca em bases PubMed, Scopus, SciELO e Web of Science",
+        "Análise crítica e categorização temática"
+    ],
+    "metricas": [
+        "Não há métricas quantitativas originais; o artigo é uma revisão narrativa sem análise empírica própria.",
+        "Cita estudos prévios com desempenho comparável ou superior ao humano em tarefas específicas, mas sem valores numéricos no corpo do artigo."
+    ],
+    "limitacoes": [
+        "Predomínio de estudos teóricos e normativos na literatura revisada, com escassez de dados empíricos sobre uso real de IA por médicos e pacientes.",
+        "Ausência de estudos qualitativos suficientes para compreender como os dilemas éticos se manifestam na prática.",
+        "Enfoque majoritariamente euro-americano, com pouca consideração de contextos da América Latina e da África.",
+        "Falta de integração entre marcos legais, clínicos e éticos em um único framework prático."
+    ]
+}

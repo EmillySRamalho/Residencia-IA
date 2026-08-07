@@ -1,0 +1,34 @@
+{
+    "titulo": "O caso Twitter/X: algoritmo, espaço público e ultraliberalismo digital",
+    "autores": [
+        "Ettore Schimid Batalha",
+        "Jefferson Ribeiro da Silva",
+        "Bruno Daniel Vendruscolo Espinosa Velásquez"
+    ],
+    "ano": 2025,
+    "metodos": [
+        "Revisão bibliográfica interdisciplinar",
+        "Levantamento bibliométrico",
+        "Coleta de dados via APIs (OpenAlex, Crossref Metadata API, SciELO ArticleMeta API)",
+        "Uso do software Publish or Perish",
+        "Processamento e normalização de dados em Python/Pandas",
+        "Deduplicação por DOI e título normalizado",
+        "Busca por expressões regulares em títulos e resumos",
+        "Análise estatística descritiva",
+        "Séries temporais interrompidas (Interrupted Time Series, ITS)",
+        "Mineração de texto"
+    ],
+    "metricas": [
+        "Acervo inicial de 54.154 registros",
+        "Filtragem temporal de 2006 a 2025",
+        "Variável binária `mentions_public` para indicar menções a espaço público",
+        "Gráficos de contagem anual de publicações e proporção de publicações que mencionam 'espaço público'",
+        "Ajuste segmentado por ITS com intervenção em 2022",
+        "Uso de resíduos vs. valores ajustados para diagnóstico do modelo"
+    ],
+    "limitacoes": [
+        "Os dados de pesquisa só estão disponíveis mediante solicitação",
+        "O artigo não apresenta, no texto fornecido, valores numéricos finais consolidados de desempenho/efeitos da ITS além das descrições e figuras",
+        "Parte da evidência sobre moderação, bots, desinformação e anunciantes é baseada em dados empíricos iniciais, análises acadêmicas e reportagens jornalísticas, sem detalhamento completo no texto fornecido"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "titulo": "Oficina de Escrita Acadêmica: Escrita acadêmica ética, responsável e humana com inteligência artificial",
+    "autores": [
+        "Rafael Cardoso Sampaio"
+    ],
+    "ano": 2025,
+    "metodos": [
+        "revisão narrativa de literatura",
+        "síntese de literatura com documentos normativos e diretrizes institucionais",
+        "proposição de guia prático/metodológico em cinco fases para uso de IA na escrita acadêmica"
+    ],
+    "metricas": [
+        "Não há métricas quantitativas ou resultados experimentais; o artigo apresenta resultados conceituais e um guia prático em cinco fases. As principais saídas descritas são: planejamento humano prévio; escrita assistida e curadoria crítica; apropriação e reescrita autoral; verificação rigorosa de fatos, fontes e lógica; e responsabilidade final com declaração transparente de uso de IA."
+    ],
+    "limitacoes": [
+        "O próprio texto aponta que a execução fiel das fases pode reduzir ou até anular parte do ganho de eficiência trazido pela IA.",
+        "O artigo é normativo e baseado em revisão narrativa, sem avaliação empírica do guia proposto.",
+        "As orientações podem variar conforme políticas institucionais, periódicos e versões/ferramentas de IA, o que limita a generalização prática."
+    ]
+}
